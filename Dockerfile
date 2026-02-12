@@ -1,17 +1,14 @@
-# Stage 1: Build the Application
-# CHANGED: Using JDK 21 to match your project version
+# Build Stage
 FROM maven:3.9.6-eclipse-temurin-21 AS build
 WORKDIR /app
 COPY . .
-
-# CHANGED: Removed '-Pproduction' to fix the profile error
-# Running standard clean package
+# Skip tests and build the jar
 RUN mvn clean package -DskipTests
 
-# Stage 2: Run the Application
-# CHANGED: Using JRE 21 to match the build
+# Run Stage
 FROM eclipse-temurin:21-jre
 WORKDIR /app
 COPY --from=build /app/target/*.jar app.jar
 EXPOSE 8080
+# Run the application
 ENTRYPOINT ["java", "-jar", "app.jar"]
