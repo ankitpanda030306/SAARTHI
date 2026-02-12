@@ -2,7 +2,7 @@
 
 > **"A stitch in time saves nine."** > SAARTHI is a smart monitoring tool designed to predict, prevent, and intervene in student dropout cases before it's too late.
 
-![Java](https://img.shields.io/badge/Java-17-orange) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green) ![Vaadin](https://img.shields.io/badge/Frontend-Vaadin_Flow-blue) ![Status](https://img.shields.io/badge/Status-Hackathon_Ready-red)
+![Java](https://img.shields.io/badge/Java-21-orange) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green) ![Vaadin](https://img.shields.io/badge/Frontend-Vaadin_Flow-blue) ![Status](https://img.shields.io/badge/Status-Hackathon_Ready-red)
 
 ---
 
@@ -55,5 +55,6 @@ This project includes a `Dockerfile` optimized for **Render.com**.
 * [ ] Regional Language Support (Hindi, Odia, etc.) for rural accessibility.
 
 ---
+
 
 Made with ❤️ by **Ankit Kumar Panda & Team** for **TRITHON 2026**
