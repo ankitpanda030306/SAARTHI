@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "D:/Websites/Dropout Risk Prediction and Intervention System/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/Websites/Dropout Risk Prediction and Intervention System/./frontend/generated/jar-resources",
+  "staticOutput": "D:/Websites/Dropout Risk Prediction and Intervention System/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\Websites\\Dropout Risk Prediction and Intervention System\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\Websites\\Dropout Risk Prediction and Intervention System\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/Websites/Dropout Risk Prediction and Intervention System/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/Websites/Dropout Risk Prediction and Intervention System/target/dev-bundle/config",
+  "jarResourcesFolder": "D:/Websites/Dropout Risk Prediction and Intervention System/./frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\Websites\\Dropout Risk Prediction and Intervention System\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
