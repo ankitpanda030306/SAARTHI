@@ -1,3 +1,4 @@
+<img width="664" height="598" alt="Screenshot 2026-03-22 024935" src="https://github.com/user-attachments/assets/e396b7cb-143c-4737-b9d9-59f127539869" />
 # Dropout - Student Persistence & Academic Management System 🎓
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
